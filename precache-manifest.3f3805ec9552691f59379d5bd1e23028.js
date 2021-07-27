@@ -29,7 +29,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "a9775f2deeb6277a94b017d65fb3997f",
-    "url": "/logo.svg"
+    "url": "/vue-polygon/logo.svg"
   },
   {
     "revision": "43cf2182105f25141781a328e9e4d71a",
